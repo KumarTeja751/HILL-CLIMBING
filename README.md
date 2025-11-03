@@ -40,7 +40,7 @@ Feedback is provided in terms of heuristic function
 
 ### PROGRAM:
 
-```
+```py
 import random
 import string
 
